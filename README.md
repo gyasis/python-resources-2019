@@ -171,6 +171,9 @@ and designed by and for scientists, engineers and data analysts.
 
 * [_Jupyter_](https://www.jupyter.org) JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, 
 and data.
+
+* [_VS Code_](https://code.visualstudio.com/) Visual Studio code is Microsoft's Open source IDE solution that's well supported by thousands of plugins 
+
 ### Packages
 
 * [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web Scraping Using BeautifulSoup
@@ -321,3 +324,7 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* [_Google_](https://www.google.com/) The tree of knowledge
+
+* [Dash](https://kapeli.com/dash) Dash is an API Documentation Browser and Code Snippet Manager. Dash instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets and more. You can even generate your own docsets or request docsets to be included.
